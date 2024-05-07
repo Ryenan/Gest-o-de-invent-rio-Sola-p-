@@ -47,6 +47,6 @@ Para usar o aplicativo da empresa de calçados:
 
 ## Contato
 
-Ryênan <br> [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5588997007833&text&type=phone_number&app_absent=0](https://api.whatsapp.com/send?phone=5588992642364)) <br>
+Ryenan ( Ryenan )<br> [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5588992642364&text&type=phone_number&app_absent=0) <br>
        <br>![Discord](https://img.shields.io/discord/:serverId)<br>
 
