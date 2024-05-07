@@ -27,10 +27,10 @@ Para usar o aplicativo da empresa de calçados:
 
 1. Faça login com suas credenciais.
     Usuários para teste:
-       RH: Ermeson - 123
-       Logística: Ryênan - 123
-       T.I: Eduardo - 123
-       Produção: João - 123
+       <br>RH: Ermeson - 123
+       <br>Logística: Ryênan - 123
+       <br>T.I: Eduardo - 123
+       <br>Produção: João - 123
 2. No RH, cadastre funcionários, gerencie finanças e controle ponto.
 2.1. Na logística, acompanhe inventário e rastreie produtos.
 2.2. Em TI, abra chamados para problemas técnicos.
@@ -48,5 +48,5 @@ Para usar o aplicativo da empresa de calçados:
 ## Contato
 
 Ryênan <br> [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5588997007833&text&type=phone_number&app_absent=0](https://api.whatsapp.com/send?phone=5588992642364)) <br>
-       <br>[![Discord](https://img.shields.io/discord/:serverId)]<br>
+       <br>![Discord](https://img.shields.io/discord/:serverId)<br>
 
