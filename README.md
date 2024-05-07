@@ -1,5 +1,5 @@
 # Gestão de inventário (Sola-pé)
-Programa feito em cSharp que demonstram diversas funcionalidades, em suma maioria voltadas para o estoque, em quatro setores (RH, TI, Logística e Produção).
+Programa feito em cSharp que demonstram diversas funcionalidades, em suma maioria voltadas para o estoque, focando em quatro setores (RH, TI, Logística e Produção).
 
 ## Índice
 
@@ -12,7 +12,7 @@ Programa feito em cSharp que demonstram diversas funcionalidades, em suma maiori
 
 ## Visão Geral
 
-O desenvolvimento do aplicativo para a empresa de calçados visa fornecer uma solução integrada que atenda às demandas dos departamentos de RH, logística e TI. Priorizando a eficiência operacional, a primeira etapa concentra-se nas necessidades fundamentais do RH, como cadastro de funcionários, gestão financeira e controle de ponto. Em seguida, as funcionalidades para incluir aspectos cruciais da logística, como inventário e rastreamento de produtos. Finalmente, a terceira etapa aborda as demandas de TI, oferecendo uma plataforma de chamados para relatar e resolver problemas técnicos de forma rápida e eficaz. O objetivo é criar uma solução abrangente que permita à empresa gerenciar suas operações de maneira eficiente e organizada, impulsionando a produtividade e o sucesso geral do negócio.
+O desenvolvimento do aplicativo para a empresa de calçados visa fornecer uma solução integrada que atenda às demandas dos departamentos de RH, logística e TI. Priorizando a eficiência operacional, a primeira etapa concentra-se nas necessidades fundamentais do RH, como cadastro de funcionários, gestão financeira e controle de ponto. A segunda etapa, inclui funcionalidades cruciais da logística, como inventário e rastreamento de produtos. Finalmente, a terceira etapa aborda as demandas de TI, oferecendo uma plataforma de chamados para relatar e resolver problemas técnicos de forma rápida e eficaz. O objetivo é criar uma solução abrangente que permita à empresa gerenciar suas operações de maneira eficiente e organizada, impulsionando a produtividade e o sucesso geral do negócio.
 
 
 ## Tecnologias Utilizadas
@@ -35,7 +35,7 @@ Para usar o aplicativo da empresa de calçados:
 2.1. Na logística, acompanhe inventário e rastreie produtos.
 2.2. Em TI, abra chamados para problemas técnicos.
 2.3. Na produção, acompanha-se uma lista de tarefas encaminhadas para a produção.
-3. Contate-me para feedback ou dúvidas.
+3. Contate-nos para feedback ou dúvidas.
 
 
 ## Contribuição
